@@ -1,0 +1,17 @@
+top=top
+
+A (SW3, SW2, SW1, SW0)
+B (SW7, SW6, SW5, SW4)
+
+ALU_sel (SW15, SW14, SW13)
+
+Cin (SW12)
+
+Result (LD3, LD2, LD1, LD0)
+
+
+out (LD7)
+Overflow (LD6)
+Zero (LD5)
+Carry (LD4)
+

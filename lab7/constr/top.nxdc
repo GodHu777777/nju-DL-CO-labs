@@ -1,0 +1,8 @@
+top=top
+
+out (LD12)
+
+reset (SW0)
+in (SW1)
+
+clk (BTNC)
